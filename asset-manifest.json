@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-todo/static/css/main.b229448e.chunk.css",
+    "main.js": "/react-todo/static/js/main.e1dba332.chunk.js",
+    "main.js.map": "/react-todo/static/js/main.e1dba332.chunk.js.map",
+    "runtime-main.js": "/react-todo/static/js/runtime-main.a4c1d6f9.js",
+    "runtime-main.js.map": "/react-todo/static/js/runtime-main.a4c1d6f9.js.map",
+    "static/js/2.0d49f093.chunk.js": "/react-todo/static/js/2.0d49f093.chunk.js",
+    "static/js/2.0d49f093.chunk.js.map": "/react-todo/static/js/2.0d49f093.chunk.js.map",
+    "static/js/3.c49d618a.chunk.js": "/react-todo/static/js/3.c49d618a.chunk.js",
+    "static/js/3.c49d618a.chunk.js.map": "/react-todo/static/js/3.c49d618a.chunk.js.map",
+    "index.html": "/react-todo/index.html",
+    "static/css/main.b229448e.chunk.css.map": "/react-todo/static/css/main.b229448e.chunk.css.map",
+    "static/js/2.0d49f093.chunk.js.LICENSE.txt": "/react-todo/static/js/2.0d49f093.chunk.js.LICENSE.txt",
+    "static/media/fontello.css": "/react-todo/static/media/fontello.6192288c.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4c1d6f9.js",
+    "static/js/2.0d49f093.chunk.js",
+    "static/css/main.b229448e.chunk.css",
+    "static/js/main.e1dba332.chunk.js"
+  ]
+}
