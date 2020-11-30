@@ -69,14 +69,14 @@ axios.delete(`https://jsonplaceholder.typicode.com/todos/${id}`)
         <div className="container">
         <Header />
         
-        <Route exact path="/" render={ props => (
+        <Route exact path="/react-todo/" render={ props => (
           <React.Fragment>
             <AddTodo addTodos={this.addTodo}  />
             <Todos todosl = {this.state.todos} markComp={this.markComplete} delTodos={this.deleteTodo} />
           </React.Fragment>
         )} />
 
-        <Route path="/about" component={ About} />
+        <Route path="/react-todo/about" component={ About} />
 
         </div>
 
