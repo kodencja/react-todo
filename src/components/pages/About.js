@@ -4,7 +4,7 @@ function About() {
     return (
         <React.Fragment>
             <h1>About</h1>
-        <p>This is the TodoList app v1.0.0. It's my first React page</p>
+        <p>This is the TodoList app v1.0.0. It's a page wrote in React.js</p>
         </React.Fragment>
     )
 }
