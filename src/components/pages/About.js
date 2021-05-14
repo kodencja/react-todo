@@ -1,12 +1,18 @@
-import React from 'react'
+import React from "react";
 
 function About() {
-    return (
-        <React.Fragment>
-            <h1>About</h1>
-        <p>This is the TodoList app v1.0.0. It's a page wrote in React.js</p>
-        </React.Fragment>
-    )
+  return (
+    <div style={{ textAlign: "center", marginTop: "20px" }}>
+      <h2>About</h2>
+      <p style={{ textAlign: "center", marginTop: "10px" }}>
+        This is a simple TodoList app connected with database at
+        'https://jsonplaceholder.typicode.com/todos'. It's a page wrote in
+        React.js based on class components. It uses such libraries as{" "}
+        <b>react-router-dom</b>, <b>prop-types</b>, <b>axios</b> and{" "}
+        <b>fontello</b>.
+      </p>
+    </div>
+  );
 }
 
-export default About
+export default React.memo(About);
