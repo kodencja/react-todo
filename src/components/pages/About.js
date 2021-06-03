@@ -4,7 +4,7 @@ function About() {
   return (
     <div className="dev-box" style={{ textAlign: "center", marginTop: "20px" }}>
       <h2>About</h2>
-      <p style={{ textAlign: "center", marginTop: "10px" }}>
+      <p style={{ textAlign: "center", margin: "10px" }}>
         This is a simple TodoList app connected with database at
         'https://jsonplaceholder.typicode.com/todos'. It's a page wrote in
         React.js based on class components. It uses such libraries as{" "}
